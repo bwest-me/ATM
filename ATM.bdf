@@ -1,0 +1,40 @@
+------- cpptestscan v.10.6.0.20220609B3349 (cpptesttrace) -------
+working_dir=/home/brandon/dev/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/ATM.o
+arg=-c
+arg=ATM.cxx
+------- cpptestscan v.10.6.0.20220609B3349 (cpptesttrace) -------
+working_dir=/home/brandon/dev/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Bank.o
+arg=-c
+arg=Bank.cxx
+------- cpptestscan v.10.6.0.20220609B3349 (cpptesttrace) -------
+working_dir=/home/brandon/dev/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/BaseDisplay.o
+arg=-c
+arg=BaseDisplay.cxx
+------- cpptestscan v.10.6.0.20220609B3349 (cpptesttrace) -------
+working_dir=/home/brandon/dev/ATM
+project_name=ATM
+arg=g++
+arg=-g
+arg=-Iinclude
+arg=-o
+arg=obj/Account.o
+arg=-c
+arg=Account.cxx
